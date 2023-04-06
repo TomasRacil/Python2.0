@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        "kevinrose.vsc-python-indent",
+        "donjayamanne.python-environment-manager",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "davidanson.vscode-markdownlint",
+        "ms-toolsai.vscode-jupyter-slideshow",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.jupyter",
+        "ms-python.isort",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "visualstudioexptteam.vscodeintellicode",
+        "eamodio.gitlens",
+        "ms-azuretools.vscode-docker",
+        "patbenatar.advanced-new-file"
+    ]
+}
